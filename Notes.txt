@@ -1,0 +1,16 @@
+wbcd - Whiskoncen't breast cancer dataset.
+KNN needs scaling to be done - Whenever there is a distance measure we need to do scaling.
+
+
+
+
+
+
+TODO:
+lapply, sapply etc
+
+d
+c
+a
+a
+a
